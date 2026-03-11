@@ -5,18 +5,18 @@
   ],
   "settingsTab": {
     "network": {
-      "network": "Network",
+      "network": "ජාලය",
       "networkOptions": {
-        "all": "All",
-        "filtered": "Filtered"
+        "all": "සියල්ල",
+        "filtered": "පෙරහන් කළ"
       }
     }
   },
   "networkInterfacesPage": {
-    "title": "Network Interfaces",
-    "info": "By default, LocalSend uses all available network interfaces. You can exclude unwanted networks here. You need to restart the server to apply the changes.",
-    "preview": "Preview",
-    "whitelist": "Whitelist",
-    "blacklist": "Blacklist"
+    "title": "ජාල අතුරුමුහුණත්",
+    "info": "සාමාන්‍යයෙන් LocalSend ඔබගේ පවතින සියලු ජාල මුහුණත් භාවිතා කරයි. ඔබට අනවශ්‍ය ජාලයක් වේ නම් එය මෙතනින් ඉවත් කළ හැක. ඔබ සිදු කරන වෙනස්කම් ක්‍රියාත්මක වීමට නම් server එක restart කළ යුතුය.",
+    "preview": "පෙරදසුන",
+    "whitelist": "අවසර ලත් ලැයිස්තුව",
+    "blacklist": "අවහිර කල ලැයිස්තුව"
   }
 }
